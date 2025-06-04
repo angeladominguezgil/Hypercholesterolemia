@@ -1,4 +1,7 @@
-Author: Ángela Domínguez-Gil García
+Authors: Ángela Domínguez-Gil García, Marta Castillo, Sonia Arrasate Gil, Humbert G. Díaz
+
+Authors Contribution: ADGG Phyton ML models, MC Dataset curation, preprocesig, Preliminary LDA model,
+SAG and HGD Original Idea, Project supervision.
 
 Insitution: Department of Organic and Inorganic Chemistry, University of Basque Country UPV/EHU, 48940 Leioa, Spain.
 
